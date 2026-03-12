@@ -2,6 +2,9 @@
     "name": "pensoft/october-power-seo-plugin",
     "type": "october-plugin",
     "description": "None",
+    "extra": {
+         "installer-name": "suresoftware/powerseo"
+    },
     "require": {
         "composer/installers": "~1.0"
     }
